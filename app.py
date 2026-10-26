@@ -17,7 +17,7 @@ st.set_page_config(
     layout="wide"
 )
 
-MODEL_PATH = Path("models/retinarescue.pth")
+MODEL_PATH = Path("retinarescue.pth")
 
 
 # ---------------- IMAGE ENHANCEMENT ----------------
